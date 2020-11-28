@@ -11,6 +11,7 @@
 
 - [X] 4. git checkout -b feature/welcome
 		- create an welcome alert message in script.js
-- [ ] 5. git checkout -b feature/main-page
+- [X] 5. git checkout -b feature/main-page
 		- create index.html and write some contents
 - [ ] 6. first MVP v1.0 ready
+		- tag on master
