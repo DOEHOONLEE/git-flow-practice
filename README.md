@@ -9,8 +9,8 @@
 
 - [X] 3. Create "main.css" in style directory
 
-- [ ] 4. git checkout -b feature/welcome
-
+- [X] 4. git checkout -b feature/welcome
+		- create an welcome alert message in script.js
 - [ ] 5. git checkout -b feature/main-page
-
+		- create index.html and write some contents
 - [ ] 6. first MVP v1.0 ready
